@@ -2,7 +2,7 @@
 
 🔹 Java Basics for DSA
 
-🔹 Mathematics & Recursion 
+🔹 Mathematics & Recursion  
 
 🔹 Arrays
 
