@@ -56,7 +56,7 @@
 ✔️ Recursion Basics (Factorials, Fibonacci, Tower of Hanoi)
 ✔️ Tail Recursion vs Non-Tail Recursion
 
-🔹 Arrays
+🔹 Arrays 
 
 📊 One of the most fundamental data structures
 ✅ Introduction & Memory Layout
